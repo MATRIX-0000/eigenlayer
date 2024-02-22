@@ -1,0 +1,12 @@
+operator:
+    address: 0x124E3020a34E06FEc8E7E3922785c002a0a2cAF6
+    earnings_receiver_address: 0x124E3020a34E06FEc8E7E3922785c002a0a2cAF6
+    delegation_approver_address: 0x0000000000000000000000000000000000000000
+    staker_opt_out_window_blocks: 0
+    metadata_url: https://raw.githubusercontent.com/MATRIX-0000/eigenlayer/main/metadata.json
+    
+el_delegation_manager_address: 0x92815B99C532Cade1d43c103cb498cB45742a321
+eth_rpc_url: https://goerli.infura.io/v3/24758ee13386491090d2268cb04064e2
+private_key_store_path: /root/.eigenlayer/operator_keys/lentel.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 5
